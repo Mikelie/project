@@ -4,19 +4,20 @@
     text-align: left;
     margin-bottom: 10%;
 }
-
+.kartu{
+    background: #fff;
+}
 .feature_cake{
     background-image: url("/Users/mike/Desktop/coding/project/img/bg-feature.jpg");
-    background-size: 1000px;
+    background-size: 600px;
 }
-.card{
-    background: #fff;
+.cakecake{
+    margin-top: 10px;
 }
 .labelcake{
     text-align: center;
     margin-top: 50px;
 }
-
 .cake_image{
     text-align: center;
 
@@ -47,3 +48,36 @@ left: 89px;
 margin-top: -50px;
 z-index: -1; position:relative;
   }
+
+  .chef_item{
+      text-align: center;
+  }
+  /*menu*/
+.juduloffer h2{
+    font-size: 36px;
+    color: #3e606b;
+    font-family: "Playfair Display", serif;
+    font-weight: bold;
+    position: relative;
+    padding-bottom: 10px;
+    margin-bottom: 0px;
+}
+  .discover_item_inner .discover_item h4 {
+    font-size: 20px;
+    font-weight: bold;
+    color: #242424;
+    margin-bottom: 10px;
+}
+  .discover_item_inner .discover_item p {
+    font-size: 16px;
+    color: #797979;
+    margin-bottom: 20px;
+}
+  .juduloffer{
+      text-align: center;
+  }
+
+  /*chef*/
+  .our_chef_area {
+    background: #f6f6f6;
+}
