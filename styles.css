@@ -1,5 +1,49 @@
 /*    */
 
 .carousel-caption{
-    text-align: left
+    text-align: left;
+    margin-bottom: 10%;
 }
+
+.feature_cake{
+    background-image: url("/Users/mike/Desktop/coding/project/img/bg-feature.jpg");
+    background-size: 1000px;
+}
+.card{
+    background: #fff;
+}
+.labelcake{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.cake_image{
+    text-align: center;
+
+}
+.circle {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    font-size: 30px;
+    color: black;
+    line-height: 100px;
+    text-align: center;
+    background: white;
+position: absolute;
+top: 170px;
+left: 89px;
+  }
+
+  .dotcircle {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    font-size: 30px;
+    color: #fff;
+    line-height: 100px;
+    text-align: center;
+    background: #000;
+margin-top: -50px;
+z-index: -1; position:relative;
+  }
